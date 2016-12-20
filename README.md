@@ -1,4 +1,4 @@
-# React, Webpack, Redux, Mocha, Chai, Enzyme
+# Performance-optimized Boilerplate for React Apps using Webpack, Redux, Mocha, Chai and Enzyme
 
 ### Webpack
 * Module packaging
