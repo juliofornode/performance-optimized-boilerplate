@@ -11,7 +11,7 @@
 ### Webpack loaders
 * css-loader: uses @import instead of require()
 * postcss-loader: adds css post-processing capabilities
-* style-loader: turns css into js modules that inject <style> tags
+* style-loader: turns css into js modules that inject style tags
 * json-loader: allows to import json files
 
 ### Webpack plugins
